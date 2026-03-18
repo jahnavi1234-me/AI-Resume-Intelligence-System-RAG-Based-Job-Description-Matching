@@ -1,0 +1,8 @@
+Based on the resume and job description analysis, give:
+
+1. A professional explanation.
+2. A final job fit score in this exact format:
+
+Score: XX/100
+
+Only one final score out of 100.

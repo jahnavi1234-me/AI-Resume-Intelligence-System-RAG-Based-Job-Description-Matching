@@ -1,0 +1,12 @@
+datasets
+sentence-transformers
+transformers
+torch
+faiss-cpu
+numpy
+pandas
+pdfplumber
+python-dotenv
+tqdm
+scikit-learn
+ 
